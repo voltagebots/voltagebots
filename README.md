@@ -6,7 +6,7 @@ secure, and scalable production systems.
 I work across cloud infrastructure, Kubernetes, platform engineering, GitOps,
 distributed systems, observability, security, and developer experience.
 
-My production work has included operating cloud and Kubernetes platforms,
+My work has included operating cloud and Kubernetes platforms,
 building self-service delivery systems, improving reliability and recovery,
 and running stateful blockchain infrastructure supporting live user traffic.
 
