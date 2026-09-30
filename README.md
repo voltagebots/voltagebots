@@ -6,10 +6,9 @@ I'm a platform and infrastructure engineer. My work has moved from Linux and
 networking through Kubernetes, distributed systems and self-service platforms
 into AI model deployment and agent infrastructure.
 
-At Exodus (February 2022–August 2026), I built a GitOps delivery platform and
-operated production infrastructure across five EKS clusters. Today, my applied
-work at BlockOps focuses on deploying models across cloud and privately managed
-GPU infrastructure.
+At Exodus, I built a GitOps delivery platform and operated production
+infrastructure across five EKS clusters. Today, my work at BlockOps focuses on
+deploying models across cloud and privately managed GPU infrastructure.
 
 Alongside that work, I build [Agent Rails](https://github.com/agent-rails), an
 open-source effort exploring authorization, memory, observability and
